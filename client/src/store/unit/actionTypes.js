@@ -1,0 +1,19 @@
+export const GET_UNITS = 'GET_UNITS';
+export const GET_UNITS_SUCCESS = 'GET_UNITS_SUCCESS';
+export const GET_UNITS_FAIL = 'GET_UNITS_FAIL';
+
+export const GET_UNIT = 'GET_UNIT';
+export const GET_UNIT_SUCCESS = 'GET_UNIT_SUCCESS';
+export const GET_UNIT_FAIL = 'GET_UNIT_FAIL';
+
+export const ADD_UNIT = 'ADD_UNIT';
+export const ADD_UNIT_SUCCESS = 'ADD_UNIT_SUCCESS';
+export const ADD_UNIT_FAIL = 'ADD_UNIT_FAIL';
+
+export const UPDATE_UNIT = 'UPDATE_UNIT';
+export const UPDATE_UNIT_SUCCESS = 'UPDATE_UNIT_SUCCESS';
+export const UPDATE_UNIT_FAIL = 'UPDATE_UNIT_FAIL';
+
+export const DELETE_UNIT = 'DELETE_UNIT';
+export const DELETE_UNIT_SUCCESS = 'DELETE_UNIT_SUCCESS';
+export const DELETE_UNIT_FAIL = 'DELETE_UNIT_FAIL';

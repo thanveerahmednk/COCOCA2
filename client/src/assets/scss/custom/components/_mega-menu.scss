@@ -1,0 +1,32 @@
+.mega-menu {
+  position: absolute;
+  top: 57px;
+  left: 262px;
+  z-index: 10000;
+  width: calc(100% - 120px);
+  max-width: 1200px;
+  padding: 0;
+  overflow: hidden;
+  max-height: calc(100vh - 100px);
+  overflow-y: scroll;
+  right: auto;
+  bottom: auto;
+  float: left;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 0.813rem;
+  text-align: left;
+  list-style: none;
+  background-clip: padding-box;
+  border-radius: 0.25rem;
+
+  //   box-shadow: 0 1px 15px 1px rgb(0 0 0 / 4%), 0 1px 6px rgb(0 0 0 / 8%);
+  .left {
+    color: white;
+    background: linear-gradient(to right, #639, #263db5);
+  }
+  .right {
+    background: #ffffff;
+  }
+}
