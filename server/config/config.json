@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "",
-    "database": "bhoomi",
-    "host": "localhost",
+    "username": "dbmasteruser",
+    "password": "KNAoS)[#,-J)YXi|832FsyEQ%u)9Z5R*",
+    "database": "dbmaster",
+    "host": "ls-ecf5083a3b37544bf243f3a44cd179ab07c44101.ck9vu6rswkki.ap-south-1.rds.amazonaws.com",
     "port":"3306",
     "dialect": "mysql"
   },
